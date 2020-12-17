@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/defi-v2/static/css/main.8632cb84.chunk.css",
-    "main.js": "/defi-v2/static/js/main.751fbc0c.chunk.js",
-    "main.js.map": "/defi-v2/static/js/main.751fbc0c.chunk.js.map",
+    "main.css": "/defi-v2/static/css/main.81db9ed0.chunk.css",
+    "main.js": "/defi-v2/static/js/main.958d5019.chunk.js",
+    "main.js.map": "/defi-v2/static/js/main.958d5019.chunk.js.map",
     "runtime-main.js": "/defi-v2/static/js/runtime-main.db4dd884.js",
     "runtime-main.js.map": "/defi-v2/static/js/runtime-main.db4dd884.js.map",
     "static/css/2.a7ad5e61.chunk.css": "/defi-v2/static/css/2.a7ad5e61.chunk.css",
-    "static/js/2.e75fce71.chunk.js": "/defi-v2/static/js/2.e75fce71.chunk.js",
-    "static/js/2.e75fce71.chunk.js.map": "/defi-v2/static/js/2.e75fce71.chunk.js.map",
+    "static/js/2.e9dd2047.chunk.js": "/defi-v2/static/js/2.e9dd2047.chunk.js",
+    "static/js/2.e9dd2047.chunk.js.map": "/defi-v2/static/js/2.e9dd2047.chunk.js.map",
     "static/js/3.a866bbdd.chunk.js": "/defi-v2/static/js/3.a866bbdd.chunk.js",
     "static/js/3.a866bbdd.chunk.js.map": "/defi-v2/static/js/3.a866bbdd.chunk.js.map",
     "static/js/4.c3dc350e.chunk.js": "/defi-v2/static/js/4.c3dc350e.chunk.js",
@@ -26,8 +26,8 @@
     "static/js/10.434f47ca.chunk.js.map": "/defi-v2/static/js/10.434f47ca.chunk.js.map",
     "index.html": "/defi-v2/index.html",
     "static/css/2.a7ad5e61.chunk.css.map": "/defi-v2/static/css/2.a7ad5e61.chunk.css.map",
-    "static/css/main.8632cb84.chunk.css.map": "/defi-v2/static/css/main.8632cb84.chunk.css.map",
-    "static/js/2.e75fce71.chunk.js.LICENSE.txt": "/defi-v2/static/js/2.e75fce71.chunk.js.LICENSE.txt",
+    "static/css/main.81db9ed0.chunk.css.map": "/defi-v2/static/css/main.81db9ed0.chunk.css.map",
+    "static/js/2.e9dd2047.chunk.js.LICENSE.txt": "/defi-v2/static/js/2.e9dd2047.chunk.js.LICENSE.txt",
     "static/js/3.a866bbdd.chunk.js.LICENSE.txt": "/defi-v2/static/js/3.a866bbdd.chunk.js.LICENSE.txt",
     "static/js/6.66c23535.chunk.js.LICENSE.txt": "/defi-v2/static/js/6.66c23535.chunk.js.LICENSE.txt",
     "static/js/7.99be065c.chunk.js.LICENSE.txt": "/defi-v2/static/js/7.99be065c.chunk.js.LICENSE.txt",
@@ -101,8 +101,8 @@
   "entrypoints": [
     "static/js/runtime-main.db4dd884.js",
     "static/css/2.a7ad5e61.chunk.css",
-    "static/js/2.e75fce71.chunk.js",
-    "static/css/main.8632cb84.chunk.css",
-    "static/js/main.751fbc0c.chunk.js"
+    "static/js/2.e9dd2047.chunk.js",
+    "static/css/main.81db9ed0.chunk.css",
+    "static/js/main.958d5019.chunk.js"
   ]
 }
