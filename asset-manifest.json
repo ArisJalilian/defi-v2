@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/defi-v2/static/css/main.1d322428.chunk.css",
-    "main.js": "/defi-v2/static/js/main.457e8680.chunk.js",
-    "main.js.map": "/defi-v2/static/js/main.457e8680.chunk.js.map",
-    "runtime-main.js": "/defi-v2/static/js/runtime-main.2492f7f3.js",
-    "runtime-main.js.map": "/defi-v2/static/js/runtime-main.2492f7f3.js.map",
+    "main.js": "/defi-v2/static/js/main.1d24b80d.chunk.js",
+    "main.js.map": "/defi-v2/static/js/main.1d24b80d.chunk.js.map",
+    "runtime-main.js": "/defi-v2/static/js/runtime-main.a9f21cfb.js",
+    "runtime-main.js.map": "/defi-v2/static/js/runtime-main.a9f21cfb.js.map",
     "static/css/2.a7ad5e61.chunk.css": "/defi-v2/static/css/2.a7ad5e61.chunk.css",
-    "static/js/2.0dfddff5.chunk.js": "/defi-v2/static/js/2.0dfddff5.chunk.js",
-    "static/js/2.0dfddff5.chunk.js.map": "/defi-v2/static/js/2.0dfddff5.chunk.js.map",
+    "static/js/2.556b727d.chunk.js": "/defi-v2/static/js/2.556b727d.chunk.js",
+    "static/js/2.556b727d.chunk.js.map": "/defi-v2/static/js/2.556b727d.chunk.js.map",
     "static/js/3.7cd9a057.chunk.js": "/defi-v2/static/js/3.7cd9a057.chunk.js",
     "static/js/3.7cd9a057.chunk.js.map": "/defi-v2/static/js/3.7cd9a057.chunk.js.map",
-    "static/js/4.996a6dbe.chunk.js": "/defi-v2/static/js/4.996a6dbe.chunk.js",
-    "static/js/4.996a6dbe.chunk.js.map": "/defi-v2/static/js/4.996a6dbe.chunk.js.map",
+    "static/js/4.27efa025.chunk.js": "/defi-v2/static/js/4.27efa025.chunk.js",
+    "static/js/4.27efa025.chunk.js.map": "/defi-v2/static/js/4.27efa025.chunk.js.map",
     "static/js/5.b56c1a38.chunk.js": "/defi-v2/static/js/5.b56c1a38.chunk.js",
     "static/js/5.b56c1a38.chunk.js.map": "/defi-v2/static/js/5.b56c1a38.chunk.js.map",
     "static/js/6.d58e57f1.chunk.js": "/defi-v2/static/js/6.d58e57f1.chunk.js",
@@ -27,7 +27,7 @@
     "index.html": "/defi-v2/index.html",
     "static/css/2.a7ad5e61.chunk.css.map": "/defi-v2/static/css/2.a7ad5e61.chunk.css.map",
     "static/css/main.1d322428.chunk.css.map": "/defi-v2/static/css/main.1d322428.chunk.css.map",
-    "static/js/2.0dfddff5.chunk.js.LICENSE.txt": "/defi-v2/static/js/2.0dfddff5.chunk.js.LICENSE.txt",
+    "static/js/2.556b727d.chunk.js.LICENSE.txt": "/defi-v2/static/js/2.556b727d.chunk.js.LICENSE.txt",
     "static/js/3.7cd9a057.chunk.js.LICENSE.txt": "/defi-v2/static/js/3.7cd9a057.chunk.js.LICENSE.txt",
     "static/js/6.d58e57f1.chunk.js.LICENSE.txt": "/defi-v2/static/js/6.d58e57f1.chunk.js.LICENSE.txt",
     "static/js/7.39936915.chunk.js.LICENSE.txt": "/defi-v2/static/js/7.39936915.chunk.js.LICENSE.txt",
@@ -98,10 +98,10 @@
     "static/media/walletconnect.dfa25e47.svg": "/defi-v2/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2492f7f3.js",
+    "static/js/runtime-main.a9f21cfb.js",
     "static/css/2.a7ad5e61.chunk.css",
-    "static/js/2.0dfddff5.chunk.js",
+    "static/js/2.556b727d.chunk.js",
     "static/css/main.1d322428.chunk.css",
-    "static/js/main.457e8680.chunk.js"
+    "static/js/main.1d24b80d.chunk.js"
   ]
 }
