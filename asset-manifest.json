@@ -19,10 +19,10 @@
     "static/js/7.47005088.chunk.js": "/defi-v2/static/js/7.47005088.chunk.js",
     "static/js/7.47005088.chunk.js.map": "/defi-v2/static/js/7.47005088.chunk.js.map",
     "main.css": "/defi-v2/static/css/main.6e1936a7.chunk.css",
-    "main.js": "/defi-v2/static/js/main.47d35cd0.chunk.js",
-    "main.js.map": "/defi-v2/static/js/main.47d35cd0.chunk.js.map",
-    "runtime-main.js": "/defi-v2/static/js/runtime-main.a66702a4.js",
-    "runtime-main.js.map": "/defi-v2/static/js/runtime-main.a66702a4.js.map",
+    "main.js": "/defi-v2/static/js/main.8b88394b.chunk.js",
+    "main.js.map": "/defi-v2/static/js/main.8b88394b.chunk.js.map",
+    "runtime-main.js": "/defi-v2/static/js/runtime-main.16cbffc0.js",
+    "runtime-main.js.map": "/defi-v2/static/js/runtime-main.16cbffc0.js.map",
     "static/css/10.cc992f83.chunk.css": "/defi-v2/static/css/10.cc992f83.chunk.css",
     "static/js/10.291e5fd6.chunk.js": "/defi-v2/static/js/10.291e5fd6.chunk.js",
     "static/js/10.291e5fd6.chunk.js.map": "/defi-v2/static/js/10.291e5fd6.chunk.js.map",
@@ -57,8 +57,8 @@
     "static/js/23.96f479d3.chunk.js.map": "/defi-v2/static/js/23.96f479d3.chunk.js.map",
     "static/js/24.99cf43f1.chunk.js": "/defi-v2/static/js/24.99cf43f1.chunk.js",
     "static/js/24.99cf43f1.chunk.js.map": "/defi-v2/static/js/24.99cf43f1.chunk.js.map",
-    "static/js/25.10c16e3e.chunk.js": "/defi-v2/static/js/25.10c16e3e.chunk.js",
-    "static/js/25.10c16e3e.chunk.js.map": "/defi-v2/static/js/25.10c16e3e.chunk.js.map",
+    "static/js/25.4ce7270f.chunk.js": "/defi-v2/static/js/25.4ce7270f.chunk.js",
+    "static/js/25.4ce7270f.chunk.js.map": "/defi-v2/static/js/25.4ce7270f.chunk.js.map",
     "static/js/26.75599841.chunk.js": "/defi-v2/static/js/26.75599841.chunk.js",
     "static/js/26.75599841.chunk.js.map": "/defi-v2/static/js/26.75599841.chunk.js.map",
     "static/css/27.b86c08a9.chunk.css": "/defi-v2/static/css/27.b86c08a9.chunk.css",
@@ -220,10 +220,10 @@
     "static/media/walletconnect.dfa25e47.svg": "/defi-v2/static/media/walletconnect.dfa25e47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a66702a4.js",
+    "static/js/runtime-main.16cbffc0.js",
     "static/css/10.cc992f83.chunk.css",
     "static/js/10.291e5fd6.chunk.js",
     "static/css/main.6e1936a7.chunk.css",
-    "static/js/main.47d35cd0.chunk.js"
+    "static/js/main.8b88394b.chunk.js"
   ]
 }
